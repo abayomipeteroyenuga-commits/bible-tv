@@ -1,0 +1,15 @@
+{
+  "name": "PASTOR ABAYOMI BIBLE STORIES BIBLE TV",
+  "short_name": "BIBLE TV",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b1534",
+  "icons": [
+    {
+      "src": "assets/brand-logo.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
